@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Breaking News!</title>
+    <style>
+        body {
+            text-align: center;
+            padding: 50px;
+            background-color: #f4f4f4; /* Background color for the entire page */
+            color: #333; /* Text color */
+            font-family: Arial, sans-serif; /* Font family */
+        }
+
+        h1 {
+            color: #e74c3c; /* Header color */
+        }
+
+        p {
+            margin: 15px 0; /* Add some spacing between paragraphs */
+            line-height: 1.6; /* Adjust line height for better readability */
+        }
+
+        img {
+            max-width: 100%; /* Make sure the image doesn't exceed its container's width */
+            border-radius: 10px; /* Add a border radius for rounded corners */
+            margin-bottom: 20px; /* Add spacing below the image */
+        }
+
+        /* Additional styles for specific elements */
+        .birthday-wish {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #3498db; /* Birthday wish color */
+        }
+
+        .signature {
+            font-style: italic;
+            color: #27ae60; /* Signature color */
+        }
+    </style>
+</head>
+<body>
+    <img src="C:\Users\WISSAL\Desktop\breakingnews.PNG" alt="Birthday Image">
+    <h1>Breaking News!</h1>
+    <p>Date: 25-12-2023</p>
+    <p>We interrupt your regular programming with an urgent and joyous announcement! Today(probably) marks a momentous occasion as we celebrate the extraordinary existence of Oualid Afoukal, the one and only star of our hearts.</p>
+    <p>In a unanimous decision by the Love and Happiness Council, it has been declared that Oualid Afoukal is officially another year more fantastic and sexy.</p>
+    <p class="birthday-wish">We wish Waldoun (his favourite nickname) the happiest of birthdays, filled with love, joy, and endless kisses.</p>
+    <p class="signature">[the Love and Happiness Council]</p>
+</body>
+</html>
